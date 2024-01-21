@@ -62,7 +62,7 @@
                 break;
             case "Contact Us":
                 DisplayContactPage();
-                break;
+                 break;
             case "Products":
                 DisplayProductPage();
                 break;
